@@ -20,7 +20,7 @@ title: APK Files
 
 ### Payment Info (Available only for US)
 
-- Method: Zelle
+- Method: Zelle (for now until I figure out payment integration with the app)
 - Email: sloppy.bear1414@gmail.com
 
 $3.99 for Linux and $1 for the rest. $14.99 for the entire bundle.
